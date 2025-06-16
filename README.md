@@ -1,7 +1,10 @@
 # go-study
 
-## Bookmark 
+## Bookmarks
+- https://go.dev/doc/
 - https://go.dev/doc/tutorial/module-conclusion
 
-## Credit
-- https://go.dev/doc/
+## Done
+- https://go.dev/doc/install
+- https://go.dev/doc/tutorial/getting-started
+- https://go.dev/doc/tutorial/create-module
